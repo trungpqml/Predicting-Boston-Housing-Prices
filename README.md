@@ -14,7 +14,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Code
 
-The code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file for the program. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate.
+The code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file for the program. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for manipulating.
 
 ### Run
 
